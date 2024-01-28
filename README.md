@@ -8,12 +8,14 @@ Maria D. Pastor-Vivero1,5, Laura Acosta3, Aliuska Duardo-Sánchez6,
 Sonia Arrasate 7, Humberto González-Díaz1,7,8, David Albesa-Jové,1,7,8,*
 
 # Affiliations
-1 BIOFISIKA: Basque Center for Biophysics CSIC, (UPV/EHU), Barrio Sarriena s/n, Leioa, Bizkaia 48940
-2 Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Center of Information and Communication Technologies, University of A Coruña, Campus Elviña s/n, 15071, A Coruña, Spain.
-3 IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
-4Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain.
-5IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
-6Departamento de Bioquímica y Biología Molecular, Universidad del País Vasco UPV/EHU, 48080 Bilbao, España.
+1 BIOFISIKA: Basque Center for Biophysics CSIC, University of The Basque Country (UPVEHU),    Barrio Sarriena s/n, 48940, Leioa, , Basque Country, Spain.
+2 Department of Coatings and Polymeric Materials, North Dakota State University, Fargo, North Dakota 58102, United States.
+3 CITIC-Research Center of Information and Communication Technologies, Department of Computer Science and Information Technologies, University of A Coruña (UDC), 15071, A Coruña, Spain.
+4 IKERDATA S.L., ZITEK, University of The Basque Country (UPVEHU), Rectorate Building, 48940 Leioa, Spain.
+5 Cruces University Hospital, IIS Biocruces-Bizkaia, 48903, Barakaldo, Basque Country, Spain.
+6 Department of Public Law, University of the Basque Country UPV/EHU 48940, Leioa, Biscay, Spain.
+7 Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain.
+8 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
 
 # Abstract
 Cystic fibrosis (CF) is an autosomal recessive monogenic disease caused by mutations in a gene on the long arm of chromosome 7 that codes for the CFTR (Cystic Fibrosis Transmembrane conductance Regulator) protein. These mutations cause dysfunctional transport of chloride and other ions such as sodium and bicarbonate (Fonseca et al., 2020) which leads to the generation of thick and viscous mucus secretions from the lungs, as a consequence the airways are obstructed with an ideal environment for microbial colonization. The main treatment in this disease and specifically in exacerbations (phenomenon where there is a rapid deterioration of lung function) is antibiotic therapy according to the antibiotic resistance profile obtained from clinical micribiology plate culture. However with this method is slow and not totally accurate. In this context, combining Next-generation sequencing (NGS) PCR-based metagenomics for the identification of bacterial species from a clinical sample combined with Artificial inteligence /Machine learning (AI/ML) could be a fast track solution to create customized Personalized Medicine (PM) treatments for specific patients. Here we used the  Information Fusion +Perturbation Theory + Machine Learning (IFPTML) data pre-processing technique combined to Linear and Non-linear ML methods like Linear Discriminant Analysis (LDA) and Artificial Neuronal Networks (ANN) to obtain a PM predictive model for CF patients. Last, GDPR compliance Synthetic Data (SD) generation experiments by Monte Carlo (MC) methods have been performed in order to avoid patient re-identification and test model robustness at the same time. 
