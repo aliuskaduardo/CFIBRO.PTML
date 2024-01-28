@@ -1,5 +1,6 @@
 # CFIBRO.PTML
-IFPTML Personalized Medicine Metagenomic Analysis of Microbiome Cystic Fibrosis Patients
+CFIBRO.PTML General Data Protection Regulation (GDPR) compliant AI data analysis, management, 
+and synthetic data generation and data protection for Cystic Fibrosis patients from basque country.
 
 # Authors
 Carmen Velásquez 1, Estefania Asencio-Medina2,3,6, 
@@ -34,7 +35,8 @@ Under construction
 Supporting information file IFPTML-ANN-CFIBRO.c contain the code in c language of the ANN models trained and validated in this paper. The code of the software used to generate the models is part of the STATISTICA package an is not propietary of the authors for release. The code may be used to implement the model in other software ever following the licence specifications by Statsoft inc. specified inside these files. Please in case you want to obtain similar ANN models use this package or other ANN algorithms package implemented in Phyton, WEKA, or other algorithms. In any case, we would like to point out that the linear models presented in the paper are simpler and have similar to better statistical performance than the ANN models released here. If your objective is using our models to predict new fuel blends we recommend the linear models instead of the ANN models released here. This linear models can be run in Excel or in any other script using the linear equations presented in the paper. You can reproduce the models using the data released at follows in the Supporting information files.
 
 # Funding
-Under construction
+Eusko Jaurlaritza/Basque Goverment, Health Department.
+Grant: PIDFQ, Ref. FBB-PID-FQ, 2022-2023, Funds: 30965.0 Eur 
 
 # References
 Under construction
